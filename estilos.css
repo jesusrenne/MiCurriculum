@@ -1,0 +1,41 @@
+/*Hoja de estilos*/
+.titulo{
+    
+    background-color:gray;
+    color: cornsilk;
+    text-align: center;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+    padding-top: 0px;
+    padding-top: 0px;
+    height: 30px;
+  
+}
+
+.foto{
+    border-radius: 20px;
+    text-align: center;
+   
+}
+
+.horizontal_dotted_line{ 
+    border-bottom: 0.5px dotted [black]; width: 2px; 
+}
+
+.academica{
+    
+    background-color:gray;
+    color:white;
+    text-align: justify;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 10px;
+    padding-top: 0px;
+    border-radius: 20px;
+    height: 30px;
+  
+}
+
